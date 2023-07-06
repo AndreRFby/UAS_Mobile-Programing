@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BelajarSqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/BelajarSqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BelajarSqlite.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
